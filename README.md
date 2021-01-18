@@ -38,6 +38,11 @@
 <td>HTML5, CSS3, Php</td>
 <td align="center"> Вёрстка</td>
 </tr>
+ <tr>
+<td><a href="https://github.com/CreateBiryukov/ContactPage">Adaptive Contact Page</a></td>
+<td>HTML5, CSS3</td>
+<td align="center"> Вёрстка</td>
+</tr>
 </tbody>
 </table>
 </font>
