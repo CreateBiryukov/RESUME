@@ -36,11 +36,21 @@
 <tr>
 <td><a href="https://github.com/akruzhalov/city_for_all">Город для всех</a></td>
 <td>HTML5, CSS3, Php</td>
-<td align="center"> Вёрстка</td>
+<td align="center"> Участие в проекте </td>
 </tr>
- <tr>
+<tr>
 <td><a href="https://github.com/CreateBiryukov/ContactPage">Adaptive Contact Page</a></td>
 <td>HTML5, CSS3</td>
+<td align="center">Вёрстка</td>
+</tr>
+ <tr>
+<td><a href="https://github.com/CreateBiryukov/Vpn-landing">Landing Vpn Page</a></td>
+<td>HTML5, CSS3</td>
+<td align="center">Вёрстка</td>
+</tr>
+  <tr>
+<td><a href="https://github.com/CreateBiryukov/Flower-shop">Flower Shop 1st Page</a></td>
+<td>HTML5, CSS3, JavaScript</td>
 <td align="center"> Вёрстка</td>
 </tr>
 </tbody>
